@@ -3,6 +3,8 @@ h1{
     font-family: 'Times New Roman', Times, serif;
     background-color: #800200;
     color: #0269F0;
+    border-radius: 6px;
+    font-family: 'Oswald', sans-serif;
 
 }
 h2{
@@ -36,5 +38,12 @@ p{
     font-size: medium;
     background-color: #FF4F4D;
     padding-left: 2cm;
+    box-shadow: 0 0 5px #0269F0
     
+}
+html{
+    background: linear-gradient(to bottom, red, purple)
+}
+a{
+    color: aliceblue;
 }
